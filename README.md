@@ -76,22 +76,27 @@
 | **Portfolio** — React.js Personal Site | React · Vite · Tailwind · Framer Motion | [Live](https://vandana-portfolio-azure.vercel.app/) · [Code](https://github.com/Vandanarajput/Vandana_Portfolio) |
 | **SQL Client Web App** *(Proprietary)* | React · JavaScript · Tailwind · REST APIs | Techsapphire |
 | **PDF Reading & Note-Taking App** *(Proprietary)* | React · JavaScript · Tailwind · REST APIs | Techsapphire |
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vandanarajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vandanarajput&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <a href="https://github.com/Vandanarajput">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vandanarajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vandana's GitHub stats" />
+  </a>
+  <a href="https://github.com/Vandanarajput">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vandanarajput&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vandanarajput&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Vandanarajput&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vandanarajput&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
 </p>
 
 ---
-
-<p align="center">
-  <i>⚡ "Building responsive, component-based UIs — one clean component at a time."</i>
-</p>
